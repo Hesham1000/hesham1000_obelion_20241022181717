@@ -11,7 +11,7 @@
         "react": "17.0.2",
         "axios": "latest",
         "webpack": "latest",
-        "hesham": "latest",
+        "hesham": "0.0.0",
         "lodash": "4.17.21"
     },
     "devDependencies": {
